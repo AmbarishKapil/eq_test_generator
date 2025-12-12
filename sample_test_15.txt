@@ -1,0 +1,167 @@
+Branch 1: Perceiving Emotions
+
+Question 1
+
+Scenario & Question: [Age 15] Jordan walked into the school cafeteria and saw their friend group huddled together, laughing and looking at someone's phone. When Jordan approached, the group suddenly stopped talking and exchanged quick glances. One friend said, "Oh hey, Jordan," in a slightly forced, flat tone while others looked away. Which emotions is Jordan most likely experiencing in this moment?
+
+Options:
+A) Excitement and joy
+B) Confusion and hurt
+C) Anger and aggression
+D) Indifference and calm
+E) Mild curiosity
+
+Expert Consensus Scores: A: 1, B: 5, C: 2, D: 1, E: 3
+
+Question 2
+
+Scenario & Question: [Age 15] Look at the image of the person. Their eyebrows are pulled slightly together and upward, their mouth is turned down at the corners, and they are looking down and away from others. Their shoulders are slightly slumped. Which of the following emotions is this person most likely feeling?
+
+Options:
+A) Happiness and excitement
+B) Disgust and anger
+C) Sadness and disappointment
+D) Fear and surprise
+E) Confidence and pride
+
+Expert Consensus Scores: A: 1, B: 2, C: 5, D: 3, E: 1
+
+Question 3
+
+Scenario & Question: [Age 15] Morgan spent weeks preparing a presentation for a class competition. Right after finishing the presentation, the audience was silent for a moment before starting to clap. Morgan walked off the stage, took a deep breath, and said to a friend, "Well, I'm just glad it's over," while avoiding eye contact and fidgeting with their hands. Which emotions is Morgan most likely experiencing?
+
+Options:
+A) Pure relief and satisfaction
+B) Disappointment and anxiety about their performance
+C) Boredom and indifference
+D) Anger towards the audience
+E) Pride and excitement for the next opportunity
+
+Expert Consensus Scores: A: 2, B: 5, C: 1, D: 1, E: 3
+
+
+Branch 2: Using Emotions to Facilitate Thought
+
+Question 1
+
+Scenario & Question: [Age 15] You have a big, open-ended project for a class where you need to come up with a completely original idea and presentation. You are in the initial "brainstorming" phase, trying to generate as many creative possibilities as you can. Which emotional state would be MOST helpful for this specific part of the task?
+
+Options:
+A) Calm contentment
+B) Anxious worry
+C) Playful curiosity
+D) Serious skepticism
+E) Frustrated determination
+
+Expert Consensus Scores: A: 3, B: 1, C: 5, D: 2, E: 1
+
+Question 2
+
+Scenario & Question: [Age 15] You are about to proofread your application for a summer program you really want to join. This is your final check for any small spelling, grammar, or formatting errors before you hit "submit." Which emotional state would be MOST helpful for ensuring you catch every detail?
+
+Options:
+A) Excited enthusiasm
+B) Focused calm
+C) Confident pride
+D) Playful humor
+E) Impatient eagerness
+
+Expert Consensus Scores: A: 2, B: 5, C: 3, D: 1, E: 1
+
+Question 3
+
+Scenario & Question: [Age 15] You had a minor disagreement with a friend, and there's some lingering tension. You've decided to approach them to talk it out and clear the air. Your goal is to reconnect and understand their perspective. Which emotional approach would be MOST helpful in facilitating this conversation?
+
+Options:
+A) Defensive, to protect your own feelings
+B) Empathetic and open-minded
+C) Apologetic, even if you're not sure what you did wrong
+D) Lighthearted, to try and joke about the situation immediately
+E) Neutral and unemotional
+
+Expert Consensus Scores: A: 1, B: 5, C: 3, D: 2, E: 2
+
+
+Branch 3: Understanding Emotions
+
+Question 1
+
+Scenario & Question: [Age 15] Alex worked for weeks on a science fair project, putting in extra hours to make it perfect. When the results were announced, Alex did not even place in the top three. If Alex's initial feeling is one of deep disappointment, what is a LIKELY emotion that might follow if they can't process the initial feeling?
+
+Options:
+A) Gratitude for the experience
+B) Resentment and bitterness
+C) Renewed motivation to try harder
+D) Confusion about the judging
+E) Increased confidence
+
+Expert Consensus Scores: A: 1, B: 5, C: 3, D: 2, E: 1
+
+Question 2
+
+Scenario & Question: [Age 15] Jamie suddenly feels a mix of nervousness and excited anticipation, with a racing heart and butterflies in the stomach. What is the MOST likely cause of this blend of emotions?
+
+Options:
+A) Forgetting to do a homework assignment
+B) Getting a surprise quiz in a difficult class
+C) About to perform a solo in the school concert
+D) Hearing a loud, unexpected noise
+E) Being assigned extra chores at home
+
+Expert Consensus Scores: A: 2, B: 3, C: 5, D: 1, E: 1
+
+Question 3
+
+Scenario & Question: [Age 15] Consider the following emotions related to anger. Which sequence shows the most accurate progression from the mildest form to the most intense?
+
+Options:
+A) Rage -> Frustration -> Annoyance -> Fury
+B) Annoyance -> Frustration -> Anger -> Rage
+C) Irritation -> Fury -> Resentment -> Annoyance
+D) Frustration -> Annoyance -> Rage -> Anger
+E) Anger -> Annoyance -> Fury -> Frustration
+
+Expert Consensus Scores: A: 1, B: 5, C: 2, D: 1, E: 1
+
+
+Branch 4: Managing Emotions
+
+Question 1
+
+Scenario & Question: [Age 15] Sam has an important final exam in one hour. Sam is feeling extremely anxious, with a racing mind and shaky hands. What is the MOST effective strategy for Sam to use in the next 15 minutes to manage this anxiety and get into a better headspace for the test?
+
+Options:
+A) Suppress the feelings and try to think about something else entirely.
+B) Find a quiet space to do a few minutes of deep breathing and positive self-talk.
+C) Cram as much last-minute information as possible to feel more prepared.
+D) Complain to friends about how unfair the test is and how anxious you are.
+E) Skip the exam to avoid the uncomfortable feeling entirely.
+
+Expert Consensus Scores: A: 2, B: 5, C: 2, D: 1, E: 1
+
+Question 2
+
+Scenario & Question: [Age 15] Taylor is furious after a teammate repeatedly dropped the ball during a crucial play, causing their team to lose the championship game. Taylor is about to confront the teammate. What is the MOST effective way for Taylor to manage this anger in the moment?
+
+Options:
+A) Yell at the teammate immediately to release the anger.
+B) Walk away, cool down for 10 minutes, then discuss what happened calmly.
+C) Give the teammate the silent treatment for the rest of the day.
+D) Immediately post about the teammate's mistake on social media.
+E) Bottle up the anger and pretend everything is fine.
+
+Expert Consensus Scores: A: 1, B: 5, C: 1, D: 1, E: 1
+
+Question 3
+
+Scenario & Question: [Age 15] Your friend Riley is visibly upset and crying after a fight with their parents. Riley says, "They never listen to me!" What is the MOST effective way for you to help Riley manage their emotions in this situation?
+
+Options:
+A) Tell them to calm down and that it's not a big deal.
+B) Immediately offer advice on how to fix the problem.
+C) Listen quietly, show you are there for them, and validate their feelings.
+D) Change the subject to a funny video to distract them.
+E) Agree with them and criticize their parents to show you're on their side.
+
+Expert Consensus Scores: A: 1, B: 2, C: 5, D: 2, E: 1
+
